@@ -1,0 +1,28 @@
+Test Case 1:     
+		Room 14 ft x 12 ft x 8 ft		= (14*8)*2 + (12*8)*2 = 224 + 192 = 416 ft^2
+        Door 2.5ft x 6.8ft        		= 2.5 * 6.8 = 17 ft^2
+        Window 5ft x 3ft        		= 5 * 3 = 15 ft^2
+
+        Room total paintable surface	= 416 - (17 + 15) = 384 ft^2
+
+        Paint Cans needed:         		= 384 ft^2 / 250 ft^2 = 1.536 = 2 Cans Required
+		Paint Type: 					Deluxe 29.99
+		Paint Cost before Tax:    		= 2 * 29.99 = 59.98
+		Tax on Paint:            		= 59.98 * .0925(9.25% Tax) = 5.54815
+		Total Cost:            			= 59.98 + 5.54815 = $65.52815
+
+
+
+Test Case 2:
+		Room 100 ft x 120 ft x 15 ft    = (100*15)*2 + (120*15)*2 = 3000 + 3600= 6600 ft^2
+        Door 15ft x 10ft        		= 15 * 10 = 150 ft^2
+        Window 0ft x 0ft        		= No Window
+
+        Room total paintable surface	= 6600 - 150 = 6450 ft^2
+
+        Paint Cans needed:         		= 6450 ft^2 / 250 ft^2 = 25.78 = 26 Cans Required
+		Paint Type: 					Standard 14.99
+		Paint Cost before Tax:    		= 26 * 17.99 = 389.74
+		Tax on Paint:            		= 389.74 * .0925(9.25% Tax) = 36.05095
+		Total Cost:            			= 389.74 + 36.05095 =  $425.79
+
